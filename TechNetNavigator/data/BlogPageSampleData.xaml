@@ -1,0 +1,21 @@
+<local:BlogViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:TechNetNavigator.BlogModel" 
+    >
+    <local:BlogViewModel.TechNetBlogs>
+        <local:BlogItemModel ItemDisplayUser="User One" ReItemDisplayUser="User One" ReItemDate="09/9/2010 4:35pm" ReItemText="1111111" Itemthumbnail="/ApplicationIcon.png"  ItemDate="09/9/2010 4:35pm" ItemText="Maecenas praesent accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur" ItemTitleColor="White"/>
+        <local:BlogItemModel ItemDisplayUser="User One" ReItemDisplayUser="User Two" ReItemDate="09/9/2010 4:35pm" ReItemText="1111111" Itemthumbnail="/ApplicationIcon.png"  ItemDate="09/9/2010 3:35pm" ItemText="Pharetra placerat pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent" ItemTitleColor="White"/>
+        <local:BlogItemModel ItemDisplayUser="User One" ReItemDisplayUser="User Three" ReItemDate="09/9/2010 4:35pm" ReItemText="1111111" Itemthumbnail="/ApplicationIcon.png"  ItemDate="09/9/2010 2:35pm" ItemText="Accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat" ItemTitleColor="Black"/>
+        <local:BlogItemModel ItemDisplayUser="User One" ReItemDisplayUser="User Four" ReItemDate="09/9/2010 4:35pm" ReItemText="1111111" Itemthumbnail="/ApplicationIcon.png"  ItemDate="09/9/2010 1:35pm" ItemText="Pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum" ItemTitleColor="Black"/>
+    </local:BlogViewModel.TechNetBlogs>
+
+    <local:BlogViewModel.UserInforItems>
+        <local:BlogItemModel ItemImage="/ApplicationIcon.png" ItemDisplayUser="User One" ItemDate="09/9/2010 4:35pm" ItemText="Maecenas praesent accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur" ItemTitleColor="White"/>
+        <local:BlogItemModel ItemImage="/ApplicationIcon.png" ItemDisplayUser="User Two" ItemDate="09/9/2010 3:35pm" ItemText="Pharetra placerat pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent" ItemTitleColor="White"/>
+        <local:BlogItemModel ItemImage="/ApplicationIcon.png" ItemDisplayUser="User Three" ItemDate="09/9/2010 2:35pm" ItemText="Accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat" ItemTitleColor="Black"/>
+        <local:BlogItemModel ItemImage="/ApplicationIcon.png" ItemDisplayUser="User Four" ItemDate="09/9/2010 1:35pm" ItemText="Pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum" ItemTitleColor="Black"/>
+    </local:BlogViewModel.UserInforItems>
+    
+    
+</local:BlogViewModel>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<local>
+<item>
+  <title>主页</title>
+  <description>TechNet 中文网站首页</description>
+  <link>http://technet.microsoft.com/zh-cn</link>
+  <image>../icons/nav.index.png</image>
+</item>
+<item>
+  <title>技术资源库</title>
+  <description>IT 专业人士的基本资源</description>
+  <link>http://technet.microsoft.com/zh-cn/library/default.aspx</link>
+  <image>../icons/nav.resourse.png</image>
+</item>
+<item>
+  <title>学习</title>
+  <description>学习、评估、订阅中文速递邮件</description>
+  <link>http://technet.microsoft.com/zh-cn/bb291022.aspx</link>
+  <image>../icons/nav.leaning.png</image>
+</item>
+<item>
+  <title>下载</title>
+  <description>下载Microsoft评估及免费产品</description>
+  <link>http://technet.microsoft.com/zh-cn/bb403698</link>
+  <image>../icons/nav.download.png</image>
+</item>
+<item>
+  <title>支持</title>
+  <description>查找技术问题的答案</description>
+  <link>http://technet.microsoft.com/zh-cn/ms772425</link>
+  <image>../icons/nav.support.png</image>
+</item>
+<item>
+  <title>社区</title>
+  <description>分享技术经验，解决技术问题</description>
+  <link>http://technet.microsoft.com/zh-cn/bb291006</link>
+  <image>../icons/nav.bbs.png</image>
+</item>
+<item>
+  <title>论坛</title>
+  <description>TechNet中文论坛</description>
+  <link>http://social.technet.microsoft.com/Forums/zh-CN/categories</link>
+  <image>../icons/nav.forum.png</image>
+</item>
+</local>

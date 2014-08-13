@@ -1,0 +1,15 @@
+<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:TechNetNavigator.ViewModel" 
+    >
+    <local:MainViewModel.NavigatorItems>
+        <local:ItemViewModel ItemTitle = "design one" ItemDetails="Dictumst eleifend facilisi faucibus" ItemImage="ApplicationIcon.png" />
+        <local:ItemViewModel ItemTitle="design two" ItemDetails="Dictumst eleifend facilisi faucibus" ItemImage="ApplicationIcon.png"/>
+        <local:ItemViewModel ItemTitle="design three" ItemDetails="Habitant inceptos interdum lobortis" ItemImage="ApplicationIcon.png"/>
+        <local:ItemViewModel ItemTitle="design four" ItemDetails="Nascetur pharetra placerat pulvinar" ItemImage="ApplicationIcon.png"/>
+        <local:ItemViewModel ItemTitle="design five" ItemDetails="Sagittis senectus sociosqu suscipit" ItemImage="ApplicationIcon.png"/>
+        <local:ItemViewModel ItemTitle="design six" ItemDetails="Torquent ultrices vehicula volutpat" ItemImage="ApplicationIcon.png"/>
+    </local:MainViewModel.NavigatorItems>
+
+</local:MainViewModel>
